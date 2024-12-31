@@ -1,0 +1,17 @@
+path: "./GRAZPEDWRI-DX/data" # dataset root dir
+train: ./images/train/ # 28,468 images
+val: ./images/valid/ # 4065 images
+test: ./images/test/ # 2028 images
+
+
+# Classes
+names:
+  0: boneanomaly
+  1: bonelesion
+  2: foreignbody
+  3: fracture
+  4: metal
+  5: periostealreaction
+  6: pronatorsign
+  7: softtissue
+  8: text
