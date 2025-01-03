@@ -9,7 +9,7 @@
 
 [Lightweight G-YOLOv11: Advancing Efficient Fracture Detection in Pediatric Wrist X-rays](https://arxiv.org/abs/2501.00647).\
 Abdesselam Ferdi\
-[![arXiv](https://arxiv.org/abs/2501.00647)
+[![arXiv](https://arxiv.org/abs/2501.00647)]
 
 <details>
   <summary>
@@ -23,7 +23,7 @@ Computer-aided diagnosis (CAD) systems have greatly improved the interpretation 
 GRAZPEDWRI-DX dataset
 
 | Model | Test Size | #Params | FLOPs | FScore | mAP<sup>{50}</sup> | mAP<sup>{50:95}</sup> | Inference Time |
-|:---------------|:----:|:---:|:--:|:--:|:--:|
+|:---------------|:----:|:---:|:--:|:--:|:--:|:--:|
 | [YOLOv8] |   			 640  |  43.636M  |  165.4G  |  69.8%  |  67.2%  |  40.3%  |  6.2ms  |
 | [YOLOv9-C] | 			 640  |  25.536M  |  103.7G  |  68.2%  |  61.7%  |  38.9%  |  5.8ms  |
 | [YOLOv9-E] | 			 640  |  58.152M  |  192.7G  |  71.1%  |  65.7%  |  44.2%  |  13.0ms |
@@ -36,11 +36,11 @@ GRAZPEDWRI-DX dataset
 
 The code is built with [ultralytics](https://github.com/ultralytics/ultralytics) and [YOLOv9-Fracture-Detection](https://github.com/RuiyangJu/YOLOv9-Fracture-Detection).
 
-Thanks for the great implementations! 
+Great thanks to them! 
 
 ## Citation
 
-If our code or models help your work, please cite our paper:
+If the code or models help your work, please cite my paper:
 ```BibTeX
 @misc{ferdi2024lightweightgyolov11advancingefficient,
       title={Lightweight G-YOLOv11: Advancing Efficient Fracture Detection in Pediatric Wrist X-rays}, 
