@@ -26,7 +26,7 @@ Computer-aided diagnosis (CAD) systems have greatly improved the interpretation 
 ## Performance
 GRAZPEDWRI-DX dataset
 
-| Model | Test Size | #Params | FLOPs | FScore | mAP<sup>50</sup> | mAP<sup>50:95</sup> | Inference Time |
+| Model | Test Size | #Params | FLOPs | FScore | mAP<sup>50</sup> | mAP<sup>50-95</sup> | Inference Time |
 |:-----------------:|:-----:|:-----:|:-----:|:----:|:----:|:----:|:----:|
 | YOLOv8   | 640 |  43.636M  |  165.4G  |  69.8%  |  67.2%  |  40.3%  |  6.2ms  |
 | YOLOv9-C | 640 |  25.536M  |  103.7G  |  68.2%  |  61.7%  |  38.9%  |  5.8ms  |
