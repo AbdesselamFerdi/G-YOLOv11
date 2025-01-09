@@ -46,13 +46,10 @@ Great thanks to them!
 
 If the code or models help your work, please cite my paper:
 ```BibTeX
-@misc{ferdi2024lightweightgyolov11advancingefficient,
-      title={Lightweight G-YOLOv11: Advancing Efficient Fracture Detection in Pediatric Wrist X-rays}, 
-      author={Abdesselam Ferdi},
-      year={2024},
-      eprint={2501.00647},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2501.00647}, 
+@article{ferdi2024lightweight,
+  title={Lightweight G-YOLOv11: Advancing Efficient Fracture Detection in Pediatric Wrist X-rays},
+  author={Ferdi, Abdesselam},
+  journal={arXiv preprint arXiv:2501.00647},
+  year={2024}
 }
 ```
